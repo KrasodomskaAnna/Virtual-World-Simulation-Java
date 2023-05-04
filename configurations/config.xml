@@ -1,0 +1,15 @@
+<?xml version = "1.0" encoding="UTF-8"?>
+<data>
+    <settings>
+        <BoardSizeW>30</BoardSizeW>
+        <BoardSizeH>20</BoardSizeH>
+    </settings>
+    <organism>
+        <type>FOX</type>
+        <percent>10</percent>
+    </organism>
+    <organism>
+        <type>LAMP</type>
+        <percent>10</percent>
+    </organism>
+</data>
